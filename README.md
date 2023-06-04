@@ -8,7 +8,7 @@
 ![Load](https://github.com/suptimusfika/Random-User-API-Performance-Test/assets/48064134/73e3951f-d22a-4ba9-86e0-2f5e750b89e4)
 
 *Stress testing:
-![stress](https://github.com/suptimusfika/Random-User-API-Performance-Test/assets/48064134/ac7064dc-34c6-4f83-ab52-46fd94880fb6)
+![stress](https://github.com/suptimusfika/Random-User-API-Performance-Test/assets/48064134/cec5cd20-4167-4958-9eec-6a05613d7395)
 
 **Individual test breakdown screenshots are added below:**
 
