@@ -3,9 +3,10 @@
 ## Generated the report of Load testing and stress testing in Excel format with the actual and expected TPS
 ## The test result screenshots are added in the word file
 
-**The TPS and test breakdown report screenshot is added below:** 
+**The TPS and test breakdown report screenshot is added below:**
 
 *Load testing:
+
 ![Load](https://github.com/suptimusfika/Random-User-API-Performance-Test/assets/48064134/fa80178f-d105-434c-a442-69fbd3cd6e16)
 
 *Stress testing:
