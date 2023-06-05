@@ -3,6 +3,22 @@
 ## Generated the report of Load testing and stress testing in Excel format with the actual and expected TPS
 ## The test result screenshots are added in the word file
 
+## Technology Used
+- JMeter
+- Jdk-11
+
+## Scenerio
+Find out the actual TPS for if 120000 user can give load for 12 hour
+Perform load test on this URL: https://random-data-api.com/api/v2/users
+1. You have to find out if the expected TPS (Transaction Per/Second) meet the above requirement.
+Breakdown the expected TPS in excel sheet and find out the actual TPS
+2. Create another excel sheet where you will try to find out the bottleneck/stress test point. (At which point the system starts to show 1% error)
+
+## How to run this project
+- Clone this project
+- Save the .jmx file in bin folder of Apche Jmeter
+- Run the .jmx file on jmeter
+
 **The TPS and test breakdown report screenshot is added below:**
 
 *Load testing:
