@@ -47,5 +47,6 @@ Breakdown the expected TPS in excel sheet and find out the actual TPS
 ![Screenshot (1019)](https://github.com/suptimusfika/Random-User-API-Performance-Test/assets/48064134/ca8fa8d6-b1bf-4921-a21d-da03e6dacc6c)
 
 *For 1800s and 5000 users(HTML Report)
-![Screenshot 2023-06-06 024603](https://github.com/suptimusfika/Random-User-API-Performance-Test/assets/48064134/caa63a6d-0dce-4356-98b6-ac5f8a366ffb)
+![Apache-JMeter-Dashboard (1)](https://github.com/suptimusfika/Random-User-API-Performance-Test/assets/48064134/f6c2607e-4602-4517-9185-e0f92731cd46)
+
   
