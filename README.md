@@ -1,6 +1,6 @@
 # Random-User-API-Performance-Test
 
-##Steps:
+## Steps:
 - Created a jmx file for load testing of a public API named Random-User-API
 - Generated the report of Load testing and stress testing in Excel format with the actual and expected TPS
 - The test result screenshots are added in the word file
